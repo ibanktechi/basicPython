@@ -1,0 +1,9 @@
+name: basicPython
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pip
+  - pip:
+    - FundamentalAnalysis
