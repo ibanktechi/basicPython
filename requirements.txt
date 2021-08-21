@@ -3,3 +3,4 @@ FundamentalAnalysis
 pandas
 matplotlib
 yfinance==0.1.62
+scipy
