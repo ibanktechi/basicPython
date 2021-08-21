@@ -1,5 +1,5 @@
 numpy
 FundamentalAnalysis
 pandas
-yfinance
 matplotlib
+yfinance==0.1.62
